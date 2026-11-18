@@ -77,3 +77,5 @@
 | `git push`      | Envoie les modifications vers le dépôt distant | `git push origin main`           |
 | `git pull`      | Récupère les modifications du dépôt distant    | `git pull origin main`           |
 | `git clone`     | Copie un dépôt distant sur son ordinateur      | `git clone URL`                  |
+
+`git log          --oneline --graph` dessine l'historique avec les branches
